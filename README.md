@@ -110,32 +110,37 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td><strong>Azure AI Fundamentals — AI-901</strong></td>
-      <td>AI workloads & responsible AI; machine learning fundamentals; computer vision; natural language processing; generative AI</td>
+      <td><strong>Cloud and AI Security Engineer Associate — SC-900</strong></td>
+      <td>E2E Cloud and AI security: identities, data, applications, infrastructure, and compliance</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
-      <td><strong>Azure AI Apps and Agents Developer Associate — AI-103</strong></td>
+      <td><strong>Azure AI Apps and Agents Developer Associate (AI-103)</strong></td>
       <td>Agentic workflows, MS Foundry, RAG, Multimodal systems, Responsible AI</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
-      <td><strong>SQL AI Developer Associate — DP-800</strong></td>
+      <td><strong>SQL AI Developer Associate (DP-800)</strong></td>
       <td>AI & Vector Integration, Database Fundamentals, Security & Optimization, DevOps</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
-      <td><strong>Microsoft Azure Security Fundamentals — SC-900</strong></td>
+      <td><strong>Azure AI Fundamentals (AI-901)</strong></td>
+      <td>AI workloads & responsible AI; machine learning fundamentals; computer vision; natural language processing; generative AI</td>
+      <td>✅ Certified</td>
+    </tr>
+    <tr>
+      <td><strong>Microsoft Azure Security Fundamentals (SC-900)</strong></td>
       <td>Cloud Security</td>
       <td>✅ Certified</td>
     </tr>
     <tr>
-      <td><strong>Microsoft Azure Fundamentals — AZ-900</strong></td>
+      <td><strong>Microsoft Azure Fundamentals (AZ-900)</strong></td>
       <td>Cloud Computing</td>
       <td>✅ Certified</td>
     </tr>
     <tr>
-      <td><strong>CompTIA IT Fundamentals — ITF+</strong></td>
+      <td><strong>CompTIA IT Fundamentals (ITF+)</strong></td>
       <td>IT Fundamentals</td>
       <td>✅ Certified</td>
     </tr>     
@@ -153,7 +158,7 @@
   
 ```
 ▶  Working on [ShiftSync](https://github.com/arseniedev/draft-project-shift-sync)
-▶  Preparing for the AI-103 and DP-800 certification path
+▶  Preparing for the SC-500, AI-103, & DP-800 certifications
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Exploring the Mythos AI frontier and its creative workflows
 ▶  Levelling up in the Copilot + Power Platform ecosystem (Dataverse, PowerApps, Power Pages)
