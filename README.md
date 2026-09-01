@@ -135,48 +135,48 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    2 hrs 19 mins       ██████████████████░░░░░░░   71.52 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Astro                    2 hrs 20 mins       ██████████████████░░░░░░░   71.65 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Agent                    1 hr 38 mins        █████████████░░░░░░░░░░░░   50.38 % 
-Cursor                   1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.62 % 
+Agent                    1 hr 38 mins        █████████████░░░░░░░░░░░░   50.15 % 
+Cursor                   1 hr 37 mins        ████████████░░░░░░░░░░░░░   49.85 % 
 
 🐱‍💻 Projects: 
-blueprint-nz             2 hrs 56 mins       ███████████████████████░░   90.80 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+blueprint-nz             2 hrs 57 mins       ███████████████████████░░   90.84 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (93.52%)
+⏱ AI Coding Time: 3 hrs 1 min (93.08%)
 
 ✍️ 0 lines written by AI, 280 lines written by hand (0.0% AI-written)
 
-🔤 423,535 Input Tokens, 423,535 Output Tokens
+🔤 424,924 Input Tokens, 424,924 Output Tokens
 
-💵 $7.62 Estimated AI Cost This Week
+💵 $7.65 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 201 AI Prompts
+🧠 11 AI Sessions, 202 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 8,430 characters per prompt
+📚 Verbose Prompter — average 8,416 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31-08-2026 UTC
+ Last Updated on 01-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
