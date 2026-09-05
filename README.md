@@ -128,7 +128,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -136,34 +136,34 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    6 hrs 4 mins        ███████████████████░░░░░░   77.12 % 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-TSConfig                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Astro                    5 hrs 45 mins       ███████████████████░░░░░░   76.44 % 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+TSConfig                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 6 mins        █████████████░░░░░░░░░░░░   52.11 % 
-Agent                    3 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.89 % 
+Cursor                   4 hrs               █████████████░░░░░░░░░░░░   53.19 % 
+Agent                    3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.81 % 
 
 🐱‍💻 Projects: 
-blueprint-nz             7 hrs 35 mins       ████████████████████████░   96.30 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+blueprint-nz             7 hrs 14 mins       ████████████████████████░   96.13 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (91.34%)
+⏱ AI Coding Time: 6 hrs 56 mins (92.25%)
 
 ✍️ 2,566 lines written by AI, 271 lines written by hand (90.45% AI-written)
 
-🔤 851,328 Input Tokens, 851,328 Output Tokens
+🔤 851,349 Input Tokens, 851,349 Output Tokens
 
 💵 $15.51 Estimated AI Cost This Week
 
@@ -174,7 +174,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.45% of written lines came from AI
-📚 Verbose Prompter — average 8,497 characters per prompt
+📚 Verbose Prompter — average 8,498 characters per prompt
 🔁 Iterative Prompter — average 33 prompts per session
 🚀 High AI Trust — 14.29% of changed lines were hand-edited
 ```
