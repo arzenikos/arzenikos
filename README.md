@@ -124,63 +124,28 @@
 ## ⏱️ `CODING_TIME.log()`
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2025%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2052%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+📅 **I'm Most Productive on Thursday** 
+
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">258 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="44" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">12.33%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">147 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="25" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">7.03%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">384 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="66" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">18.36%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">812 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="140" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">38.81%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">119 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="20" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.69%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">254 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="126" width="44" height="8" rx="4" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">12.14%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">118 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="150" width="20" height="8" rx="4" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">5.64%</text></svg>
+
 
 📊 **This Week I Spent My Time On** 
 
-```text
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    5 hrs 45 mins       ███████████████████░░░░░░   76.44 % 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-TSConfig                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-
-🔥 Editors: 
-Cursor                   4 hrs               █████████████░░░░░░░░░░░░   53.19 % 
-Agent                    3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.81 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Astro</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 45 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="275" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">76.44%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">26 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="21" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">5.86%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">TSConfig</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">20 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="16" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">4.54%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">19 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="15" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">4.24%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">17 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="14" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">3.87%</text></svg>
 
 🐱‍💻 Projects: 
-blueprint-nz             7 hrs 14 mins       ████████████████████████░   96.13 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-💻 Operating System: 
-Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 56 mins (92.25%)
-
-✍️ 2,566 lines written by AI, 271 lines written by hand (90.45% AI-written)
-
-🔤 851,349 Input Tokens, 851,349 Output Tokens
-
-💵 $15.51 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 401 AI Prompts
-
-Grok                     4,127 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.45% of written lines came from AI
-📚 Verbose Prompter — average 8,498 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
-🚀 High AI Trust — 14.29% of changed lines were hand-edited
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">blueprint-nz</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 14 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="346" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">96.13%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Unknown Project</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">13 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="11" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">3.07%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">_pamana</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="2" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.56%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">terminals</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 min</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="1" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.24%</text></svg>
 
 
- Last Updated on 05-09-2026 UTC
+
+ Last Updated on 06-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
