@@ -124,9 +124,56 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-```text
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2039%20mins-blue?style=for-the-badge)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 200 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Wednesday                384 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 812 commits         ██████████░░░░░░░░░░░░░░░   38.74 % 
+Friday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Saturday                 254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Sunday                   118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    5 hrs 59 mins       █████████████████░░░░░░░░   68.33 % 
+Git Config               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TSConfig                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+
+🐱‍💻 Projects: 
+blueprint-nz             8 hrs 28 mins       ████████████████████████░   96.68 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+```
+
+
+ Last Updated on 07-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
