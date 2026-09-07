@@ -159,16 +159,16 @@ Sunday                   118 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    5 hrs 59 mins       █████████████████░░░░░░░░   68.33 % 
-Git Config               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-TSConfig                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Astro                    5 hrs 59 mins       █████████████████░░░░░░░░   67.86 % 
+Git Config               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🐱‍💻 Projects: 
-blueprint-nz             8 hrs 28 mins       ████████████████████████░   96.68 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+blueprint-nz             8 hrs 28 mins       ████████████████████████░   96.02 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 terminals                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
