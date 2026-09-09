@@ -53,8 +53,8 @@
 | **AI Engineering (Full Row)** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-0B3B8C?logo=langchain&logoColor=white&style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?logo=n8n&logoColor=EA4AAA&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4.svg?style=for-the-badge&logo=azure&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000000.svg?style=for-the-badge&logo=semanticweb&logoColor=white) ![Prompt Flow](https://img.shields.io/badge/Prompt_Flow-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-%23EA5906.svg?style=for-the-badge&logo=anthropic&logoColor=white) |
 | **CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  |
 | **Programming Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23662D91.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-%2347A248.svg?style=for-the-badge&logo=node.js&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-%23742774.svg?style=for-the-badge&logo=swagger&logoColor=white) |
-| **Web Development** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/AstroJS-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) |
+| **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-%2347A248.svg?style=for-the-badge&logo=node.js&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-%23742774.svg?style=for-the-badge&logo=swagger&logoColor=white) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#) |
+| **Web Development** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](#) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/AstroJS-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) |
 | **Testing & QA** | ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?style=for-the-badge&logo=chai&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-%23662D91.svg?style=for-the-badge&logo=appium&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) ![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) |
 | **Cloud Services** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 | **Database & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
@@ -124,57 +124,8 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2049%20mins-blue?style=for-the-badge)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 203 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
-
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Wednesday                388 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Thursday                 817 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
-Friday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Saturday                 254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Sunday                   118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Astro                    11 hrs 2 mins       ███████████████░░░░░░░░░░   58.95 % 
-TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-
-🐱‍💻 Projects: 
-blueprint-nz             14 hrs 5 mins       ███████████████████░░░░░░   75.21 % 
-prostate-care            3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
-
-
- Last Updated on 09-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
