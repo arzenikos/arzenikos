@@ -124,8 +124,57 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2049%20mins-blue?style=for-the-badge)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 203 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📅 **I'm Most Productive on Thursday** 
+
 ```text
+Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Wednesday                388 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Thursday                 818 commits         ██████████░░░░░░░░░░░░░░░   38.84 % 
+Friday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Saturday                 254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Sunday                   118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    11 hrs 2 mins       ███████████████░░░░░░░░░░   58.95 % 
+TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+
+🐱‍💻 Projects: 
+blueprint-nz             14 hrs 5 mins       ███████████████████░░░░░░   75.21 % 
+prostate-care            3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+_pamana                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+
+ Last Updated on 09-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
