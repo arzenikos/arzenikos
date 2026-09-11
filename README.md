@@ -143,13 +143,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Wednesday                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Thursday                 880 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
-Friday                   124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Saturday                 259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Sunday                   124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Monday                   4 commits           ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                3 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Thursday                 5 commits           ██████████░░░░░░░░░░░░░░░   38.46 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -159,18 +159,18 @@ Sunday                   124 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    13 hrs 3 mins       █████████████░░░░░░░░░░░░   52.56 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-TypeScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Git Config               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Astro                    8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
+JSON                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Git Config               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🐱‍💻 Projects: 
-prostate-care            12 hrs 10 mins      ████████████░░░░░░░░░░░░░   49.05 % 
-blueprint-nz             11 hrs 54 mins      ████████████░░░░░░░░░░░░░   47.96 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-terminals                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-assets                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+prostate-care            12 hrs 10 mins      ███████████████░░░░░░░░░░   61.63 % 
+blueprint-nz             6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+assets                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 
