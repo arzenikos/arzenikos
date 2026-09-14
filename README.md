@@ -124,7 +124,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2018%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
 
@@ -132,24 +132,24 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 225 Contributions in the Year 2026
+> 🏆 227 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 21 commits          █████████████████████████   100.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Tuesday                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Wednesday                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 879 commits         ██████████░░░░░░░░░░░░░░░   39.05 % 
+Friday                   125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Saturday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 
@@ -159,22 +159,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
-JSON                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Git Config               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Astro                    10 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.52 % 
+JSON                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TypeScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Git Config               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-prostate-care            12 hrs 10 mins      ███████████████░░░░░░░░░░   61.63 % 
-blueprint-nz             6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-assets                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+prostate-care            16 hrs              ██████████████████░░░░░░░   70.87 % 
+blueprint-nz             5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 12-09-2026 UTC
+ Last Updated on 14-09-2026 UTC
 <!--END_SECTION:waka-->
 
 </br>
