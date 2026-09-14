@@ -124,7 +124,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%204%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
 
@@ -159,18 +159,18 @@ Sunday                   123 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    10 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.52 % 
-JSON                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-TypeScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Git Config               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Astro                    11 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.16 % 
+TypeScript               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+JSON                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Git Config               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs              ██████████████████░░░░░░░   70.87 % 
-blueprint-nz             5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+prostate-care            18 hrs 4 mins       ██████████████████░░░░░░░   73.50 % 
+blueprint-nz             5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 
