@@ -124,7 +124,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%204%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2039%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge)
 
@@ -159,17 +159,17 @@ Sunday                   123 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    11 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.16 % 
-TypeScript               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-JSON                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Git Config               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Astro                    11 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.84 % 
+TypeScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+JSON                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-prostate-care            18 hrs 4 mins       ██████████████████░░░░░░░   73.50 % 
-blueprint-nz             5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+prostate-care            18 hrs 39 mins      ███████████████████░░░░░░   75.34 % 
+blueprint-nz             5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
