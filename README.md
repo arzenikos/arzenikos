@@ -140,6 +140,39 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Tuesday                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Wednesday                393 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 879 commits         ██████████░░░░░░░░░░░░░░░   39.03 % 
+Friday                   125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Saturday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    6 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
+TypeScript               2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Git Config               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+
+🐱‍💻 Projects: 
+prostate-care            14 hrs 58 mins      ████████████████████████░   97.29 % 
+AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+assets                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+obsidian-canvas-highlight2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
 
  Last Updated on 16-09-2026 UTC
 <!--END_SECTION:waka-->
