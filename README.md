@@ -78,7 +78,7 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td><strong>Cloud and AI Security Engineer Associate — SC-900</strong></td>
+      <td><strong>Cloud and AI Security Engineer Associate — SC-500</strong></td>
       <td>E2E Cloud and AI security: identities, data, applications, infrastructure, and compliance</td>
       <td>🔄 In Progress</td>
     </tr>
