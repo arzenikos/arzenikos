@@ -124,7 +124,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2045%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2011%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=for-the-badge)
 
@@ -159,18 +159,17 @@ Sunday                   123 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    6 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
-TypeScript               2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Git Config               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+TypeScript               2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Astro                    2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+YAML                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🐱‍💻 Projects: 
-prostate-care            14 hrs 58 mins      ████████████████████████░   97.29 % 
-AI-Security-Projects     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-assets                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-obsidian-canvas-highlight2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+prostate-care            10 hrs 58 mins      ████████████████████████░   97.34 % 
+AI-Security-Projects     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
