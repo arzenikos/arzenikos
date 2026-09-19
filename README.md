@@ -124,7 +124,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2011%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%201%20min-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=for-the-badge)
 
@@ -140,7 +140,7 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -148,7 +148,7 @@ Tuesday                  0 commits           ░░░░░░░░░░░�
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 22 commits          █████████████████████████   100.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -159,16 +159,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Astro                    2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-YAML                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+TypeScript               2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+YAML                     2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Astro                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🐱‍💻 Projects: 
-prostate-care            10 hrs 58 mins      ████████████████████████░   97.34 % 
-AI-Security-Projects     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+prostate-care            7 hrs 59 mins       █████████████████████████   99.22 % 
+pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
