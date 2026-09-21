@@ -35,7 +35,7 @@
 <div align="left">
   
 ```
-▶  Currently Exploring AI Engineering landscape
+▶  Currently exploring the AI Engineering landscape
 ▶  Preparing for the SC-500, AI-103, & DP-800 certifications
 ▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
 ▶  Exploring the Mythos AI frontier and its creative workflows
@@ -48,9 +48,12 @@
   
 ## 🔮 &nbsp;`TECH_STACK.open()`
 
-| **Category** | **Skills / Shields** |
+| **AI Technologies (current obsession)** |
+|--------------|
+| ![ChromaDB](https://img.shields.io/badge/ChromaDB-blueviolet?logo=google-chrome&style=for-the-badge) ![Tensor Flow](https://img.shields.io/badge/TensorFlow-gray?logo=tensorflow&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-0B3B8C?logo=langchain&logoColor=white&style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?logo=n8n&logoColor=EA4AAA&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4.svg?style=for-the-badge&logo=azure&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000000.svg?style=for-the-badge&logo=semanticweb&logoColor=white) ![Prompt Flow](https://img.shields.io/badge/Prompt_Flow-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-%23EA5906.svg?style=for-the-badge&logo=anthropic&logoColor=white) |
+
+| | |
 |--------------|-----------------------|
-| **AI Engineering (Full Row)** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-0B3B8C?logo=langchain&logoColor=white&style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?logo=n8n&logoColor=EA4AAA&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4.svg?style=for-the-badge&logo=azure&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000000.svg?style=for-the-badge&logo=semanticweb&logoColor=white) ![Prompt Flow](https://img.shields.io/badge/Prompt_Flow-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-%23EA5906.svg?style=for-the-badge&logo=anthropic&logoColor=white) |
 | **CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  |
 | **Programming Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23662D91.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Backend Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-%2347A248.svg?style=for-the-badge&logo=node.js&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-%23742774.svg?style=for-the-badge&logo=swagger&logoColor=white) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#) |
@@ -182,7 +185,6 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 </br>
 
 <div>
-  *Made with* 🧙‍♂️ *and a sprinkle of arcane CSS*
 
   `✦ per aspera ad astra ✦`
 </div>
