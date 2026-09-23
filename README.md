@@ -127,7 +127,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%201%20min-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2035%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=for-the-badge)
 
@@ -162,16 +162,14 @@ Sunday                   122 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-YAML                     2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
-TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-Bash                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+Bash                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Astro                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-prostate-care            5 hrs 18 mins       █████████████████████████   98.83 % 
-pgai                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+prostate-care            5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
