@@ -162,14 +162,14 @@ Sunday                   117 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-YAML                     2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Bash                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Astro                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML                     31 mins             █████████░░░░░░░░░░░░░░░░   36.50 % 
+Astro                    24 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🐱‍💻 Projects: 
-prostate-care            5 hrs 50 mins       █████████████████████████   100.00 % 
+prostate-care            1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 
