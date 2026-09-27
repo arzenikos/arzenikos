@@ -188,4 +188,6 @@ prostate-care            34 mins             ███████████�
   `✦ per aspera ad astra ✦`
 </div>
 
+<div align="center">
+  <img alt="per aspera add astra" src="https://github.com/arseniedev/arseniedev/blob/main/assets/bg-white.png" />  
 <div>
