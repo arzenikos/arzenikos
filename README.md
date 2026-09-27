@@ -35,12 +35,13 @@
 <div align="left">
   
 ```
-▶  Currently exploring the AI Engineering landscape
-▶  Preparing for the SC-500, AI-103, & DP-800 certifications
-▶  Grinding XP in game dev — C++ engines by day, Unity builds by night
-▶  Exploring the Mythos AI frontier and its creative workflows
-▶  Venturing into the realms of Terraform and CI/CD.
-▶  Picking up a bit of NZSL on the side
+▶  Exploring the AI Engineering landscape — charting new territories, unlocking hidden skill trees, and mapping the edges of agentic systems
+▶  AI security engineering projects — Forging defensive enchantments, hardening models, and banishing rogue adversarial spirits
+▶  Agentic AI Town of Salem clone game — raising a mischievous village of plotting, back‑stabbing autonomous NPCs
+▶  Forward Deployed Engineer learning pathway — sharpening field instincts and levelling up rapid‑deployment prowess
+▶  Preparing for the SC‑500, AI‑103 & DP‑800 certifications — gathering arcane study artifacts and powering up your cybersecurity and AI mastery stats
+▶  Grinding XP in game dev — C++ engines — dueling segmentation faults, taming memory beasts, and forging your own engine magic
+▶  Picking up a bit of NZSL on the side — adding a real‑world communication buff to your character sheet as you level across disciplines
 
 ```
 </div>
