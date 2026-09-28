@@ -48,28 +48,32 @@
 ### 💩 &nbsp;`CURRENT_PROJECTS`
 
 <table align="center">
-  <td align="center">
-    <img width="100" height="100" alt="prostate-care-website-logo" src="https://github.com/user-attachments/assets/53114be2-7b6d-47f0-92a7-af3985a028d0" /><br/>
-    Prometheus
-  </td>
-  <td align="center">
-    <img width="100" height="100" alt="mafia-ai-app-logo" src="https://github.com/user-attachments/assets/d5b9efd4-a275-4454-b896-39ae87bc160e" /><br/>
-    Nightfall
-  </td>
-  <td align="center">
-    <img width="100" height="100" alt="nzsl-app-logo" src="https://github.com/user-attachments/assets/8a296925-6a72-4a30-a495-23d2cf0fcdbc" /><br/>
-    Tūtohu
-  </td>
-  <td align="center">
-    <img width="100" height="100" alt="sherlock-app-logo" src="https://github.com/user-attachments/assets/4463759d-0ba1-45ab-91a7-fed1ac2b08b3" /><br/>
-    Sherlock
-  </td>
-  <td align="center">
-    <img width="100" height="100" alt="shift-sync-app-logo" src="https://github.com/user-attachments/assets/03a504bc-bba9-4468-a422-7efbce9f2635" /><br/>
-    KronOS
-  </td>
-  </tr>
   <tr>
+    <td align="center">
+      <img width="100" height="100" alt="prostate-care-website-logo" src="https://github.com/user-attachments/assets/53114be2-7b6d-47f0-92a7-af3985a028d0" /><br/>
+      <a href="https://github.com/arzenikos/prostate-care">Prometheus</a>
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/010a6ec8-d631-454e-a951-5bdc1398a0b4" /><br/>
+      <a href="https://github.com/arzenikos/job-goblin">JobGoblin 🔒︎
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="nzsl-app-logo" src="https://github.com/user-attachments/assets/8a296925-6a72-4a30-a495-23d2cf0fcdbc" /><br/>
+      <a href="https://github.com/arzenikos/nzsl-app">Tūtohu 🔒︎</a>
+    </td>        
+    <td align="center">
+      <img width="100" height="100" alt="mafia-ai-app-logo" src="https://github.com/user-attachments/assets/d5b9efd4-a275-4454-b896-39ae87bc160e" /><br/>
+      <a href="https://github.com/arzenikos/nightfall">Nightfall 🔒︎
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="sherlock-app-logo" src="https://github.com/user-attachments/assets/4463759d-0ba1-45ab-91a7-fed1ac2b08b3" /><br/>
+      <a href="https://github.com/arzenikos/sherlock">Sherlock 🔒︎
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="shift-sync-app-logo" src="https://github.com/user-attachments/assets/03a504bc-bba9-4468-a422-7efbce9f2635" /><br/>
+      <a href="https://github.com/arzenikos/shift-sync">KronOS 🔒︎
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -157,7 +161,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 275 Contributions in the Year 2026
+> 🏆 273 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -165,16 +169,16 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Thursday                 872 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-Friday                   135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
