@@ -35,19 +35,49 @@
 <div align="left">
   
 ```
-▶  Exploring the AI Engineering landscape — charting new territories, unlocking hidden skill trees, and mapping the edges of agentic systems
-▶  AI security engineering projects — Forging defensive enchantments, hardening models, and banishing rogue adversarial spirits
-▶  Agentic AI Town of Salem clone game — raising a mischievous village of plotting, back‑stabbing autonomous NPCs
-▶  Forward Deployed Engineer learning pathway — sharpening field instincts and levelling up rapid‑deployment prowess
-▶  Preparing for the SC‑500, AI‑103 & DP‑800 certifications — gathering arcane study artifacts and powering up your cybersecurity and AI mastery stats
-▶  Grinding XP in game dev — C++ engines — dueling segmentation faults, taming memory beasts, and forging your own engine magic
-▶  Picking up a bit of NZSL on the side — adding a real‑world communication buff to your character sheet as you level across disciplines
+▶  Exploring the AI Security Engineering & Forward Deployed Engineering landscape
+▶  Grinding XP in game dev — C++ engines
+▶  Preparing for the SC‑500, AI‑103 & DP‑800 certifications
+▶  Picking up a bit of NZSL on the side
 
 ```
 </div>
 
-  
-## 🔮 &nbsp;`TECH_STACK.open()`
+<br/>
+
+### 💩 &nbsp;`CURRENT_PROJECTS`
+
+<table align="center">
+  <td align="center">
+    <img width="100" height="100" alt="prostate-care-website-logo" src="https://github.com/user-attachments/assets/53114be2-7b6d-47f0-92a7-af3985a028d0" /><br/>
+    Prometheus
+  </td>
+  <td align="center">
+    <img width="100" height="100" alt="mafia-ai-app-logo" src="https://github.com/user-attachments/assets/d5b9efd4-a275-4454-b896-39ae87bc160e" /><br/>
+    Nightfall
+  </td>
+  <td align="center">
+    <img width="100" height="100" alt="nzsl-app-logo" src="https://github.com/user-attachments/assets/8a296925-6a72-4a30-a495-23d2cf0fcdbc" /><br/>
+    Tūtohu
+  </td>
+  <td align="center">
+    <img width="100" height="100" alt="sherlock-app-logo" src="https://github.com/user-attachments/assets/4463759d-0ba1-45ab-91a7-fed1ac2b08b3" /><br/>
+    Sherlock
+  </td>
+  <td align="center">
+    <img width="100" height="100" alt="shift-sync-app-logo" src="https://github.com/user-attachments/assets/03a504bc-bba9-4468-a422-7efbce9f2635" /><br/>
+    KronOS
+  </td>
+  </tr>
+  <tr>
+</table>
+
+<br/>
+
+────────── ⋆⋅☆⋅⋆ ──────────
+
+
+## 🔮 &nbsp;`TECH_STACK.list()`
 
 |||
 |--------------|--------------|
@@ -65,7 +95,6 @@
 | **Workflow & Design** | ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Zephyr](https://img.shields.io/badge/Zephyr-%2300B0D8.svg?style=for-the-badge&logo=zotero&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white) |
 | **Power Platform** | ![Power Automate](https://img.shields.io/badge/Power_Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power_Apps-%23742774.svg?style=for-the-badge&logo=powerapps&logoColor=white) ![Dataverse](https://img.shields.io/badge/Dataverse-%23258FFA.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 
-
 </br>
 
 ────────── ⋆⋅☆⋅⋆ ──────────
@@ -78,42 +107,34 @@
   <table style="width: 100%;">
     <tr>
       <th>Certification</th>
-      <th>Domain</th>
       <th>Status</th>
     </tr>
     <tr>
       <td><strong>Cloud and AI Security Engineer Associate — SC-500</strong></td>
-      <td>E2E Cloud and AI security: identities, data, applications, infrastructure, and compliance</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
       <td><strong>Azure AI Apps and Agents Developer Associate (AI-103)</strong></td>
-      <td>Agentic workflows, MS Foundry, RAG, Multimodal systems, Responsible AI</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
       <td><strong>SQL AI Developer Associate (DP-800)</strong></td>
-      <td>AI & Vector Integration, Database Fundamentals, Security & Optimization, DevOps</td>
       <td>🔄 In Progress</td>
     </tr>
     <tr>
       <td><strong>Azure AI Fundamentals (AI-901)</strong></td>
-      <td>AI workloads & responsible AI; machine learning fundamentals; computer vision; natural language processing; generative AI</td>
       <td>✅ Certified</td>
     </tr>
     <tr>
       <td><strong>Microsoft Azure Security Fundamentals (SC-900)</strong></td>
-      <td>Cloud Security</td>
       <td>✅ Certified</td>
     </tr>
     <tr>
       <td><strong>Microsoft Azure Fundamentals (AZ-900)</strong></td>
-      <td>Cloud Computing</td>
       <td>✅ Certified</td>
     </tr>
     <tr>
       <td><strong>CompTIA IT Fundamentals (ITF+)</strong></td>
-      <td>IT Fundamentals</td>
       <td>✅ Certified</td>
     </tr>     
   </table>
@@ -136,7 +157,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2026
+> 🏆 273 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -144,16 +165,16 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Thursday                 872 commits         ██████████░░░░░░░░░░░░░░░   38.11 % 
-Friday                   135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
