@@ -14,7 +14,7 @@
 &nbsp;
 </br>
 </br> 
-[![View My Projects!](https://img.shields.io/badge/GitHub-View%20My%20Projects!-181717?style=for-the-badge&logo=github&labelColor=080182)](https://github.com/arseniedev?tab=repositories)
+[![View My Projects!](https://img.shields.io/badge/GitHub-View%20My%20Projects!-181717?style=for-the-badge&logo=github&labelColor=080182)](https://github.com/arzenikos?tab=repositories)
 
 </div>
 
@@ -50,28 +50,28 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img width="100" height="100" alt="prostate-care-website-logo" src="https://github.com/user-attachments/assets/53114be2-7b6d-47f0-92a7-af3985a028d0" /><br/>
+      <a href="https://github.com/arzenikos/prostate-care"><img width="100" height="100" alt="prostate-care-website-logo" src="https://github.com/user-attachments/assets/53114be2-7b6d-47f0-92a7-af3985a028d0" /></a><br/>
       <a href="https://github.com/arzenikos/prostate-care">Prometheus</a>
     </td>
-    <td align="center">
-      <img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/010a6ec8-d631-454e-a951-5bdc1398a0b4" /><br/>
-      <a href="https://github.com/arzenikos/job-goblin">JobGoblin 🔒︎
+      <td align="center">
+      <a href="https://github.com/arzenikos/sherlock"><img width="100" height="100" alt="shift-sync-app-logo" src="https://github.com/user-attachments/assets/34552e40-9a62-4f3b-834d-e5481f28f7a6" /></a><br/>
+      <a href="https://github.com/arzenikos/shift-sync">KronOS 🔒︎</a>
     </td>
     <td align="center">
-      <img width="100" height="100" alt="nzsl-app-logo" src="https://github.com/user-attachments/assets/8a296925-6a72-4a30-a495-23d2cf0fcdbc" /><br/>
+      <a href="https://github.com/arzenikos/job-goblin"><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/ae4757e4-c37c-48d3-98f5-13d7f38cea4f" /></a><br/>
+      <a href="https://github.com/arzenikos/job-goblin">JobGoblin 🔒︎</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arzenikos/nzsl-app"><img width="100" height="100" alt="nzsl-app-logo" src="https://github.com/user-attachments/assets/8a296925-6a72-4a30-a495-23d2cf0fcdbc" /></a><br/>
       <a href="https://github.com/arzenikos/nzsl-app">Tūtohu 🔒︎</a>
     </td>        
     <td align="center">
-      <img width="100" height="100" alt="mafia-ai-app-logo" src="https://github.com/user-attachments/assets/d5b9efd4-a275-4454-b896-39ae87bc160e" /><br/>
-      <a href="https://github.com/arzenikos/nightfall">Nightfall 🔒︎
+      <a href="https://github.com/arzenikos/nightfall"><img width="100" height="100" alt="mafia-ai-app-logo" src="https://github.com/user-attachments/assets/d5b9efd4-a275-4454-b896-39ae87bc160e" /></a><br/>
+      <a href="https://github.com/arzenikos/nightfall">Nightfall 🔒︎</a>
     </td>
     <td align="center">
-      <img width="100" height="100" alt="sherlock-app-logo" src="https://github.com/user-attachments/assets/4463759d-0ba1-45ab-91a7-fed1ac2b08b3" /><br/>
-      <a href="https://github.com/arzenikos/sherlock">Sherlock 🔒︎
-    </td>
-    <td align="center">
-      <img width="100" height="100" alt="shift-sync-app-logo" src="https://github.com/user-attachments/assets/03a504bc-bba9-4468-a422-7efbce9f2635" /><br/>
-      <a href="https://github.com/arzenikos/shift-sync">KronOS 🔒︎
+      <a href="https://github.com/arzenikos/sherlock"><img width="100" height="100" alt="sherlock-app-logo" src="https://github.com/user-attachments/assets/4463759d-0ba1-45ab-91a7-fed1ac2b08b3" /></a><br/>
+      <a href="https://github.com/arzenikos/sherlock">Sherlock 🔒︎</a>
     </td>
   </tr>
 </table>
@@ -161,24 +161,24 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 287 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 872 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
+Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 872 commits         ██████████░░░░░░░░░░░░░░░   38.01 % 
 Friday                   135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Sunday                   128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Sunday                   128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 
