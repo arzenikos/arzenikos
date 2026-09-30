@@ -169,6 +169,38 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Tuesday                  228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Wednesday                438 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Thursday                 901 commits         █████████░░░░░░░░░░░░░░░░   36.10 % 
+Friday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Saturday                 299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+Astro                    1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+
+🐱‍💻 Projects: 
+prostate-care            3 hrs 38 mins       ██████████████░░░░░░░░░░░   55.10 % 
+triathlon-app            2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
+[todo] Triathlon         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+shift-sync-core          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```
+
 
  Last Updated on 30-09-2026 UTC
 <!--END_SECTION:waka-->
