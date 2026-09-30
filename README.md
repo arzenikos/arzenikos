@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2035%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2034%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
@@ -169,35 +169,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Tuesday                  228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Wednesday                438 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Thursday                 900 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
-Friday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Saturday                 299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Astro                    24 mins             █████████████████░░░░░░░░   67.05 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-TSConfig                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🐱‍💻 Projects: 
-prostate-care            34 mins             █████████████████████████   100.00 % 
-```
-
 
  Last Updated on 30-09-2026 UTC
 <!--END_SECTION:waka-->
