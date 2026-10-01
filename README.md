@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2034%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2056%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
@@ -188,17 +188,18 @@ Sunday                   149 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Markdown                 1 hr 50 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🐱‍💻 Projects: 
-prostate-care            3 hrs 38 mins       ██████████████░░░░░░░░░░░   55.10 % 
-triathlon-app            2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
-[todo] Triathlon         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-shift-sync-core          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+triathlon-app            2 hrs 50 mins       █████████████████░░░░░░░░   67.76 % 
+prostate-care            51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+draft-project-kronos-agen20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+draft-project-shift-sync 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
