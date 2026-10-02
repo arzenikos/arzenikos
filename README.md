@@ -161,8 +161,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 452 Contributions in the Year 2026
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
