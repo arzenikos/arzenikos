@@ -155,7 +155,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%206%20mins-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
