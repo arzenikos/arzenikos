@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%203%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%206%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=for-the-badge)
 
@@ -188,18 +188,18 @@ Sunday                   149 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ██████████████░░░░░░░░░░░   56.60 % 
-JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 1 hr 57 mins        ██████████████░░░░░░░░░░░   55.64 % 
+JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-triathlon-app            2 hrs 50 mins       █████████████████████░░░░   82.24 % 
-draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-draft-project-shift-sync 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-shift-sync-core          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+triathlon-app            2 hrs 50 mins       ████████████████████░░░░░   80.85 % 
+draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+font-slider              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+draft-project-shift-sync 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
