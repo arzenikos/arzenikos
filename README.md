@@ -169,39 +169,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Thursday                 907 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-Friday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Saturday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ██████████████░░░░░░░░░░░   55.64 % 
-JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-🐱‍💻 Projects: 
-triathlon-app            2 hrs 50 mins       ████████████████████░░░░░   80.85 % 
-draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-font-slider              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-draft-project-shift-sync 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
 
  Last Updated on 04-10-2026 UTC
 <!--END_SECTION:waka-->
