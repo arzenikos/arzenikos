@@ -188,18 +188,18 @@ Sunday                   149 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ██████████████░░░░░░░░░░░   55.64 % 
-JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 2 hrs 28 mins       ███████████████░░░░░░░░░░   61.29 % 
+JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-triathlon-app            2 hrs 50 mins       ████████████████████░░░░░   80.85 % 
-draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-font-slider              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-draft-project-shift-sync 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+triathlon-app            2 hrs 50 mins       ██████████████████░░░░░░░   70.55 % 
+draft-project-mafia      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+font-slider              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
