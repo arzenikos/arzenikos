@@ -172,13 +172,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   63 commits          ███████████░░░░░░░░░░░░░░   45.65 % 
-Tuesday                  25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Wednesday                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
