@@ -161,7 +161,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 466 Contributions in the Year 2026
+> 🏆 465 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -172,13 +172,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   266 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Tuesday                  195 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Wednesday                51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Sunday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
