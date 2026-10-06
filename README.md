@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2037%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2025%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
@@ -188,18 +188,18 @@ Sunday                   149 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 2 hrs 28 mins       ███████████████░░░░░░░░░░   61.29 % 
-JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Markdown                 3 hrs 55 mins       █████████████████░░░░░░░░   67.44 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-triathlon-app            2 hrs 50 mins       ██████████████████░░░░░░░   70.55 % 
-draft-project-mafia      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-draft-project-kronos-agen26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-[todo] Triathlon         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-font-slider              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+triathlon-app            2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.83 % 
+draft-project-kronos-agen1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+learn-cybersecurity      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+draft-project-mafia      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+roster-wizard            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 
