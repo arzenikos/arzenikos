@@ -155,7 +155,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2025%20mins-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -172,13 +172,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Wednesday                482 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Thursday                 978 commits         █████████░░░░░░░░░░░░░░░░   37.23 % 
-Friday                   150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Wednesday                568 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Thursday                 1119 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+Friday                   150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Saturday                 308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 
 
