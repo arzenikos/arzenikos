@@ -188,18 +188,18 @@ Sunday                   149 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       █████████████████░░░░░░░░   67.44 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 2 hrs 17 mins       ████████████████████░░░░░   80.50 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-triathlon-app            2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.83 % 
-draft-project-kronos-agen1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-learn-cybersecurity      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-draft-project-mafia      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-roster-wizard            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+draft-project-kronos-agen1 hr                █████████░░░░░░░░░░░░░░░░   35.27 % 
+learn-cybersecurity      57 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
+draft-project-mafia      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+roster-wizard            16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+font-slider              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
