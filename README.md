@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2025%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2019%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
@@ -188,18 +188,18 @@ Sunday                   149 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ████████████████████░░░░░   80.50 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Markdown                 2 hrs 42 mins       ████████████████████░░░░░   80.09 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Astro                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-draft-project-kronos-agen1 hr                █████████░░░░░░░░░░░░░░░░   35.27 % 
-learn-cybersecurity      57 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
-draft-project-mafia      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-roster-wizard            16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-font-slider              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+learn-cybersecurity      57 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+draft-project-kronos-agen40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+draft-project-mafia      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+learn-ai                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+website-portfolio        19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 
 
