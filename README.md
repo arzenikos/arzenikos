@@ -153,7 +153,7 @@
 ## ⏱️ `CODING_TIME.log()`
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2019%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%201%20min-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=for-the-badge)
 
@@ -188,18 +188,18 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       ████████████████████░░░░░   80.09 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Astro                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Astro                    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JSON                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🐱‍💻 Projects: 
-learn-cybersecurity      57 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-draft-project-kronos-agen40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-draft-project-mafia      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-learn-ai                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-website-portfolio        19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+website-portfolio        5 hrs 38 mins       ████████████████░░░░░░░░░   62.87 % 
+learn-cybersecurity      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+draft-project-kronos-agen33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+draft-project-mafia      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+learn-ai                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 
