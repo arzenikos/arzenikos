@@ -169,16 +169,16 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Wednesday                568 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 1121 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-Friday                   165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Saturday                 308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Monday                   339 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Tuesday                  230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Thursday                 320 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Friday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 ```
 
 
